@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch / TensorFlow / model files
+*.pt
+*.h5
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
