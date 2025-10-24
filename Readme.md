@@ -104,8 +104,7 @@ High R² scores indicate excellent fit; low RMSE and MAE indicate predictions ar
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
-cd project-root
+git clone https://github.com/huzaifa12466/StockPricePredictorGRU.git
 ```
 
 2. **Create and activate a virtual environment:**
