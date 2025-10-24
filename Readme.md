@@ -1,4 +1,5 @@
 # Multi-Ticker Stock Price Prediction (GRU)
+**Live Demo:** [Streamlit App](https://stockpricepredictorgru-xrd9jvgzcicupzsm2xlu6a.streamlit.app/)
 
 **📈 Predicting future stock prices for multiple tickers using a GRU-based deep learning model with interactive visualization in Streamlit.**
 
